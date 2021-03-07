@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -g -Wall
 FLAGS = -g -Wall -o
-SHARED-LIB = liblab2.so
+SHARED-LIB = liblab2.dll
 TESTS_PATH = ../tests/
 EXECUTABLE = main
 BUILD_FOLDER_PATH = ../build/
