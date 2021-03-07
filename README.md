@@ -4,9 +4,8 @@
 
 <h3>Cerinte:</h3>
 
-1. Implementati metodele de sortare: MergeSort si QuickSort (vezi exemple si pseudocod in suportul de curs).
-2. Analizati functiile implementate anterior. Care dintre ele reprezinta metode de sortare stabile si care instabile?
-3. (<b>Bonus</b>) Exista algoritmi de sortare care nu se bazeaza pe comparatii (ca cei de la punctul 1). Acestia se numesc algoritmi de tip "counting sort" si au complexitate temporala redusa <O(nlogn). Implementat! Care este complexitatea spatiala si cea temporala? De ce nu este mai folosit?
+1. Implementati metodele de sortare: MergeSort si QuickSort (vezi exemple si pseudocod in suportul de curs). Analizati metodele implementate si specificati daca sunt metode de sortare stabile sau instabile. <b>(MergeSort - 5p, QuickSort - 5p)</b>
+2. (<b>Bonus</b>) Exista algoritmi de sortare care nu se bazeaza pe comparatii (ca cei de la punctul 1). Acestia se numesc algoritmi de tip "counting sort" si au complexitate temporala redusa <O(nlogn). Implementat! Care este complexitatea spatiala si cea temporala? De ce nu este mai folosit? <b>(2p)</b>
 
 <b>Counting sort pe scurt</b> 
 
@@ -35,4 +34,4 @@ Se modifica v astfel incat sa stocheze valorile in ordine: 1 1 1 4 6 9 9.
 <h3>Observatii teste:</h3>
 
 - Comanda <b>make test</b> va rula doar testele corespunzatoare cerintei 1.
-- Comanda <b>make test-bonus</b> va rula testele corespunzatoare bonusului (cerinta 3).
+- Comanda <b>make test-bonus</b> va rula testele corespunzatoare bonusului (cerinta 2).
