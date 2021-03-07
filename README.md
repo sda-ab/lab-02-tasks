@@ -4,7 +4,7 @@
 
 <h3>Cerinte:</h3>
 
-1. Implementati MergeSort si QuickSort.
+1. Implementati metodele de sortare: MergeSort si QuickSort (vezi exemple si pseudocod in suportul de curs).
 2. Analizati functiile implementate anterior. Care dintre ele reprezinta metode de sortare stabile si care instabile?
 3. (<b>Bonus</b>) Exista algoritmi de sortare care nu se bazeaza pe comparatii (ca cei de la punctul 1). Acestia se numesc algoritmi de tip "counting sort" si au complexitate temporala redusa <O(nlogn). Implementat! Care este complexitatea spatiala si cea temporala? De ce nu este mai folosit?
 
