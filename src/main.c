@@ -1,4 +1,6 @@
 #include "merge.h"
+#include "quick.h"
+#include "counting.h"
 #include "utils.h"
 
 int main()
